@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ViewController</key>
+	<dict>
+		<key>PageEventID</key>
+		<dict>
+			<key>Enter</key>
+			<string>PAGE_EVENT_HOME_ENTER</string>
+			<key>Leave</key>
+			<string>PAGE_EVENT_HOME_LEAVE</string>
+		</dict>
+		<key>ControlEventIDs</key>
+		<dict>
+			<key>fenxiang</key>
+			<string>CTRL_EVENT_HOME_SHARED</string>
+			<key>shoucang</key>
+			<string>CTRL_EVENT_HOME_FAVERATE</string>
+		</dict>
+	</dict>
+	<key>aaaaViewController</key>
+	<dict>
+		<key>PageEventID</key>
+		<dict>
+			<key>Enter</key>
+			<string>PAGE_EVENT_AAAA_ENTER</string>
+			<key>Leave</key>
+			<string>PAGE_EVENT_AAAA_LEAVE</string>
+		</dict>
+		<key>ControlEventIDs</key>
+		<dict/>
+	</dict>
+	<key>bbbbViewController</key>
+	<dict>
+		<key>PageEventID</key>
+		<dict>
+			<key>Enter</key>
+			<string>PAGE_EVENT_BBBB_ENTER</string>
+			<key>Leave</key>
+			<string>PAGE_EVENT_BBBB_LEAVE</string>
+		</dict>
+		<key>ControlEventIDs</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
